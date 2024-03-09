@@ -163,6 +163,7 @@ Lib           | Title
 [LukasBanana/LLGL](https://github.com/LukasBanana/LLGL) | Low Level Graphics Library (LLGL) is a thin abstraction layer for the modern graphics APIs OpenGL, Direct3D, Vulkan, and Metal 
 [zauonlok/renderer](https://github.com/zauonlok/renderer) | A shader-based software renderer written from scratch in C89
 [OpenGL](https://www.opengl.org/) | The Industry's Foundation for High Performance Graphics
+[Vulkan](https://vulkan.org/) | Graphics and compute belong together
 
 ### Audio
 
